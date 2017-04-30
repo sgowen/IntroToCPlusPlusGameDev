@@ -8,8 +8,8 @@ WASD moves the snake up, left, down, and right
 ## Building/Running in your Web Browser
 
 1. Head on over to <a href="https://www.tutorialspoint.com/compile_cpp_online.php" target="_blank">Tutorials Point</a>
-2. Open up the main.cpp file inside terminal-snake/unix
-3. Paste the contents of main.cpp into the main.cpp tab in your browser
+2. Clear the contents of the main.cpp window
+3. Open up the main.cpp file inside terminal-snake/unix and paste its contents into the main.cpp window you just cleared
 4. Hit the Compile button
 5. Click inside the window at the bottom labeled "Default Term"
 6. Run this command to run the game: ./main
