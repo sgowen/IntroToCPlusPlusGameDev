@@ -16,7 +16,7 @@ Learn how to build a simple Snake Game in C++!
 3. Run this command to build the game: "C:\Program Files (x86)\Microsoft Visual Studio 17.0\VC\bin\cl.exe" main.cpp
 4. Run this command to run the game: main.exe
 
-##Now it's your Turn!
+## Now it's your Turn!
 
 Here are just a few ways you can enhance this Snake Demo:
 
