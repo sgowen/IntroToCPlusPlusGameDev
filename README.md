@@ -31,12 +31,12 @@ WASD moves the snake up, left, down, and right
 
 ## Now it's your Turn!
 
-Here are just a few ways you can enhance this Snake Demo:
+Once you’re ready, here are a few ways you can enhance the Snake Game:
 
 1. Make the snake pop out on the other side instead of crashing into the wall
 2. Spawn multiple food pellets at a time
-3. Spawn obstacles
-4. Add a 2 player mode where one player uses "WASD" and the other uses "IJKL"
+3. Spawn obstacles other than walls
+4. Add a 2 player mode where one player uses "WASD" and the other uses "IJKL”
 5. Make the snake move faster as time goes on to increase the challenge
 6. Display the score during gameplay instead of just at the end
 
