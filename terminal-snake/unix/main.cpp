@@ -257,6 +257,8 @@ void update()
     }
 }
 
+using namespace std;
+
 void render()
 {
     clearScreen();
@@ -267,10 +269,10 @@ void render()
         {
             int value = map[y + x * MAP_HEIGHT];
             char character = getMapCharForValue(value);
-            std::cout << character;
+            cout << character;
         }
         
-        std::cout << std::endl;
+        cout << endl;
     }
 }
 
@@ -294,10 +296,10 @@ void runGame()
         _sleep(500);
     }
     
-    std::cout << std::endl << "Game over!" << std::endl << "Score: " << calcScore() << "\n" << std::endl;
+    cout << endl << "Game over!" << endl << "Score: " << calcScore() << endl << endl;
     
     // Stop console from closing instantly
-    std::cin.ignore();
+    cin.ignore();
 }
 
 int main()
